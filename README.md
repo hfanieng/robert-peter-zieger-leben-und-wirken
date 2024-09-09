@@ -1,5 +1,7 @@
 # Robert Peter Zieger - Leben und Wirken
 
+![Robbie](Older_man_in_black_shirt_Portrait.jpg)
+
 Dieses Projekt ist dem deutschen Künstler, Techniker und Lichtdesigner Robert "Robbie" Peter Zieger (1955-2021) gewidmet, der für seine bedeutenden Beiträge zur Veranstaltungstechnik und insbesondere für die Entwicklung eines rechnergesteuerten Hubzugsystems bekannt war.
 
 ## Inhalt
